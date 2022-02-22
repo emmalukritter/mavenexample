@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mavenexample.iml" filepath="$PROJECT_DIR$/.idea/mavenexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mock_and_expect/mock_and_expect.iml" filepath="$PROJECT_DIR$/mock_and_expect/mock_and_expect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testng/testng.iml" filepath="$PROJECT_DIR$/testng/testng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testtry/testtry.iml" filepath="$PROJECT_DIR$/testtry/testtry.iml" />
     </modules>
   </component>
 </project>

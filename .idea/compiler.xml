@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testng" />
+        <module name="mock_and_expect" />
+        <module name="testtry" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mavenexample" target="8" />
+      <module name="mock_and_expect" target="8" />
+      <module name="testng" target="8" />
+      <module name="testtry" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

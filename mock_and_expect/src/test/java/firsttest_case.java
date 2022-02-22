@@ -10,7 +10,7 @@ using mockup
  */
 
     @Test
-    public void testcase() {
+    public void testcase1() {
         new MockUp<firsttest>() {
             @Mock
             public boolean first(int i) {
@@ -27,7 +27,7 @@ using Expectation
     public void testcase2() {
         new Expectations() {
             {
-                f1.first(1);
+                f1.first(0);
                 result = true;
             }
         };
